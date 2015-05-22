@@ -1,0 +1,56 @@
+Name
+INVOICE
+
+
+CompanyName
+StreetAddress
+City,ST,ZIPCode
+Phone
+CustomerID-ABC12345
+
+
+Date:june 1, 2014
+INVOICE#100
+
+Name
+CompanyName
+StreetAddress
+City,ST,ZIPCode
+Phone
+
+SummaryOfRepair
+YourProducthasbeen: Repaired , Exchanged ,Upgraded,ReturnednotRepaired
+UnitWasReloaded
+OpticalDrive
+Heatsink
+Touchpad
+LCD
+ACAdapter
+SystemBoard
+CPU
+Mous
+Hinge
+HaedDrive
+RAMMemory
+KeyBoard
+Fan
+Other
+
+SKU Description Price  Subtotal(Without taxes)
+Taxes
+Grand Total
+
+Technicians Notes
+
+Remember
+Change your password, it is no longer secure , Update your antivirus and security tools
+Questions can be directed to 000-0000000 , Our work is guranteed for 90 Days
+
+I (the customer) hereby state that the work (the service) stated above was done to my satisfaction. I also recognize that it is my responsibility to inform G Whiz PC Repair of any other faults or defects within the warranty period of the work. Claims of damage done by the work (dents, scratches, etc...) must be made time of completion and not after. Claims made after are null and void. The unit (and all accessories) are now in my (the customer's) possession. G Whiz PC Repairs guarantees the labour of the work for a period of 90 Days.
+
+
+Customer Signature                    Date
+
+ Thank you for your Business !
+
+
