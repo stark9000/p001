@@ -30,7 +30,7 @@ import net.sf.jasperreports.view.JasperViewer;
 
 /**
  *
- * @author xBerWise
+
  */
 public class reportgen {
 
