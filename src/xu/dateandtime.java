@@ -10,7 +10,7 @@ import java.util.Calendar;
 
 /**
  *
- * @author xBerWise
+ * 
  */
 public class dateandtime {
 

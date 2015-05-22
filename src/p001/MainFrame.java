@@ -6,12 +6,8 @@
 package p001;
 
 import java.awt.Color;
-import java.awt.event.MouseAdapter;
-import java.awt.event.MouseEvent;
 import java.util.Vector;
 import javax.swing.JLabel;
-import javax.swing.JTable;
-import javax.swing.border.Border;
 import javax.swing.table.DefaultTableModel;
 import net.java.balloontip.BalloonTip;
 import net.java.balloontip.TableCellBalloonTip;
@@ -22,7 +18,7 @@ import xu.sessioncookie;
 
 /**
  *
- * @author xBerWise
+ *
  */
 public final class MainFrame extends javax.swing.JFrame {
 

@@ -32,7 +32,7 @@ import xu.sessioncookie;
 
 /**
  *
- * @author xBerWise
+ * 
  */
 public final class NewMFrame extends javax.swing.JFrame {
 

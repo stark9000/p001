@@ -9,7 +9,7 @@ import xu.tweak;
 
 /**
  *
- * @author xBerWise
+ * 
  */
 public class daccsess extends javax.swing.JFrame {
 

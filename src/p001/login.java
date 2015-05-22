@@ -13,7 +13,7 @@ import simplemysql.SimpleMySQLResult;
 
 /**
  *
- * @author xBerWise
+ * 
  */
 public class login extends javax.swing.JFrame {
 

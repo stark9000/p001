@@ -10,7 +10,7 @@ import java.util.List;
 
 /**
  *
- * @author xBerWise
+ *
  */
 public class sessioncookie {
 

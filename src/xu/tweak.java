@@ -15,7 +15,7 @@ import org.jasypt.util.text.BasicTextEncryptor;
 
 /**
  *
- * @author xBerWise
+ * 
  */
 public class tweak {
 

@@ -13,7 +13,7 @@ import javax.swing.UnsupportedLookAndFeelException;
 
 /**
  *
- * @author xBerWise
+ * 
  */
 public class P001 {
 
